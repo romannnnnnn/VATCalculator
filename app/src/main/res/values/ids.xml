@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clear" type="id"></item>
+    <item name="ok" type="id"></item>
+    <item name="UnitPrice" type="id"></item>
+    <item name="NumberOfunits" type="id"></item>
+    <item name="aeov" type="id"></item>
+    <item name="aiov" type="id"></item>
+    <item name="vat" type="id"></item>
+    <item name="ExclVAT" type="id"></item>
+    <item name="InclVAT" type="id"></item>
+</resources>
